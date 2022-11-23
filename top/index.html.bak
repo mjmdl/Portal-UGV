@@ -90,7 +90,7 @@
                                 </li>
                                 <!-- Biblioteca Virtual -->
                                 <li class="nav-item">
-                                    <a class="nav-link active" href="https://www.integrafaculdades.com.br/biblioteca/index.php?ins=u" target="_blank">
+                                    <a class="nav-link active" href="https://www.integrafaculdades.com.br/biblioteca/index.php?ins=u">
                                         <i class="sidebar_icon fa fa-book" aria-hidden="true"></i>
                                         Biblioteca Virtual
                                     </a>

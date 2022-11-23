@@ -130,4 +130,5 @@ body
 .sidebar_icon
 {
 	width: 32px;
+	padding: 10px;
 }
