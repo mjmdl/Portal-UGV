@@ -1,0 +1,11 @@
+#page_mural
+{
+    display: flex;
+    flex-direction: column;
+}
+
+.page_mural_banner_img
+{
+    margin: 20px auto;
+    width: 95%;
+}
